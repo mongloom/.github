@@ -5,7 +5,7 @@ The [Mango Engine](https://mango.koloja.dev/) is a multiplayer and single-player
 
 All the repositories you will need have been listed below:
 
- - [Issue Page](https://github.com/mongloom/mango-issues)
- - [Protocol Specifications](https://github.com/mongloom/mango-protocol)
+ - [Issue Page](https://github.com/mongloom/issues)
+ - [Protocol Specifications](https://github.com/mongloom/protocol)
 
 (Please note that the [Mango Engine](https://mango.koloja.dev/) is closed source! This may change in the future.)
